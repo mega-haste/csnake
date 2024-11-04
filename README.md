@@ -9,3 +9,5 @@ cd build
 ./CSnake
 ```
 
+use arrow keys to move
+
